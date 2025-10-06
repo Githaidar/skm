@@ -16,11 +16,11 @@ import heroBg from '../assets/hero/ServiceHero.webp'
         <img src="../assets/hero/image4.png" alt="Hero" class="w-full h-220 object-cover rounded-1xl" />
 
         <!-- Overlay layer khusus mobile -->
-        <div class="absolute inset-0 bg-[#444444]/90 rounded-3xl md:hidden"></div>
+        <div class="absolute inset-0 md:bg-[#444444]/90 bg-[#000f24]/80 rounded-3xl md:hidden"></div>
 
         <!-- Overlay text (mobile) -->
         <div class="absolute inset-0 flex flex-col items-center justify-center text-center px-6 text-white md:hidden">
-         <h1 class="text-4xl md:text-6xl font-bold text-[#0144a1] mb-6 leading-tight">
+         <h1 class="text-4xl md:text-6xl font-bold text-[#w] mb-6 leading-tight">
           “Setiap proyek adalah amanah, dan kami wujudkan dengan profesionalisme kerja yang terukur, rapi, dan bertanggung jawab.”
         </h1>
         </div>

@@ -18,7 +18,7 @@ import Footer from '../components/Footer.vue'
         <div class="absolute inset-0 bg-[#000f24]/80 rounded-2xl md:hidden"></div>
 
         <!-- Overlay text (mobile) -->
-        <div class="absolute inset-0 flex flex-col items-center justify-center text-center px-6 text-white md:hidden">
+        <div class="absolute inset-0 flex flex-col items-center justify-center text-center px-6 text-white md:hidden gap-3">
           <h1 class="text-3xl font-bold mb-4 drop-shadow-lg">
             Membangun Kepercayaan Melalui Kualitas
           </h1>
@@ -33,7 +33,7 @@ import Footer from '../components/Footer.vue'
       </div>
 
       <!-- Text + Button (desktop) -->
-      <div class="hidden md:flex w-full md:w-2/5 flex-col items-start text-left px-6 md:px-12">
+      <div class="hidden md:flex w-full md:w-2/5 flex-col items-start text-left px-6 md:px-12 gap-3">
         <h1 class="text-4xl md:text-6xl font-bold text-[#0144a1] mb-6 leading-tight">
           Membangun Kepercayaan Melalui Kualitas
         </h1>

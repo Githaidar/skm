@@ -27,14 +27,14 @@ import heroBg from '../assets/hero/image3.png'
                 <!-- Buttons: Email & WhatsApp -->
                 <div class="flex flex-col sm:flex-row gap-4 mt-8 justify-center md:justify-start pt-5">
                     <!-- Email Button -->
-                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sales@digitalsolusikreasi.com&su=&body="
+                    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sales@sazayankonstruksimegah.com&su=&body="
                         target="_blank"
                         class="px-6 py-3 bg-white/20 backdrop-blur-sm rounded-lg text-white font-medium text-center hover:bg-white/30 transition duration-300 ease-in-out">
                         📧 Contact via Email
                     </a>
-
+                    
                     <!-- WhatsApp Button -->
-                    <a href="https://wa.me/6282312308668?text=Hello%2C%20I'm%20interested%20in%20your%20services"
+                    <a href="https://wa.me/6281912270992?text=Hello%2C%20I'm%20interested%20in%20your%20services"
                         target="_blank"
                         class="px-6 py-3 bg-white/20 backdrop-blur-sm rounded-lg text-white font-medium text-center hover:bg-white/30 transition duration-300 ease-in-out">
                         💬 Chat on WhatsApp
@@ -55,19 +55,18 @@ import heroBg from '../assets/hero/image3.png'
         <!-- Contact Info Section -->
         <section class="w-full m-auto py-4">
             <div class="mx-auto px-6">
-                <div class="flex flex-col lg:flex-row items-center justify-center">
+                <div class="flex flex-col lg:flex-row items-center justify-center md:gap-10">
                     <!-- Image (Centered) -->
-                    <div class="max-w-1/4 h-auto flex justify-center pr-10">
+                    <div class=" max-w-1/2 md:max-w-1/4 h-auto flex justify-center">
                         <img src="@/assets/header/imageLogo.png" alt="PT Digital Solusi Kreasi Office"
-                            class="max-w-full  object-cover max-h-[400px]" />
+                            class="max-w-full pb-10 object-cover max-h-[400px]" />
                     </div>
 
                     <!-- Contact Info (Centered & Not Too Wide) -->
                     <div
-                        class="w-full lg:w-1/2 text-black max-w-md mx-auto text-center relative -top-30 md:top-0 md:text-left">
+                        class="w-full lg:w-1/2 text-black max-w-md mx-auto text-center relative  md:top-0 md:text-left">
                         <div class="space-y-5 text-lg leading-relaxed">
                             <div>
-                                <span class="font-semibold text-white">Virtual Office</span><br>
                                 <span class="opacity-90">
                                     Jl. Dahlia III Blok F3 No.24, RT.003/RW.015,<br>
                                     Pengasinan, Kec. Rawalumbu, Kota Bekasi,<br>
@@ -76,14 +75,14 @@ import heroBg from '../assets/hero/image3.png'
                             </div>
                             <div>
                                 <span class="font-semibold text-white">Alamat E-mail</span><br>
-                                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sales@digitalsolusikreasi.com&su=&body="
+                                <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sales@sazayankonstruksimegah.com&su=&body="
                                     target="_blank" class="opacity-90 hover:opacity-100 transition">
                                     Sales@sazayankonstruksimegah.com
                                 </a>
                             </div>
                             <div>
                                 <span class="font-semibold text-white">No Telp</span><br>
-                                <a href="tel:+6282312308668" class="opacity-90 hover:opacity-100 transition">
+                                <a href="tel:+6281912270992" class="opacity-90 hover:opacity-100 transition">
                                 0819-1227-0992
                                 </a>
                             </div>
