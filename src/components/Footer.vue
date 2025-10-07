@@ -43,7 +43,7 @@
   <h2 class="font-bold text-xl mb-4">Our Company Profile</h2>
   <div class="flex space-x-4">
     <a 
-      href="https://digitalsolusikreasi.com/file/ComproDSK.pdf" 
+      href="https://sazayankonstruksimegah.com/file/ComproSKM.pdf" 
       download="Brosur-Produk-Kreatif-Digital.pdf"
       class="px-3 py-2 bg-[#0398dc] text-white font-semibold rounded-2xl shadow-md hover:bg-blue-600 transition duration-300 ease-in-out focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 text-lg inline-block"
     >
