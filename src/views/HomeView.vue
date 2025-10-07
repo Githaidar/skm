@@ -12,7 +12,7 @@ import Footer from '../components/Footer.vue'
     <section class="relative w-full flex flex-col md:flex-row items-center justify-between -top-20">
       <!-- Gambar -->
       <div class="relative w-full md:w-3/5">
-        <img src="../assets/hero/image3.png" alt="Hero" class="w-full h-full object-cover rounded-1xl" />
+        <img src="../assets/hero/image3.png" alt="Hero" class="w-full md:h-full h-125 object-cover rounded-1xl" />
 
         <!-- Overlay layer khusus mobile -->
         <div class="absolute inset-0 bg-[#000f24]/80 rounded-2xl md:hidden"></div>
@@ -47,9 +47,6 @@ import Footer from '../components/Footer.vue'
       </div>
     </section>
 
-
-
-
     <!-- Core Values -->
     <section class="bg-white pb-20 flex justify-center">
       <div class="w-full max-w-7xl px-6 grid md:grid-cols-5 gap-12 md:gap-20 items-center">
@@ -61,14 +58,14 @@ import Footer from '../components/Footer.vue'
         </div>
 
         <div class="md:col-span-3 text-justify md:text-left">
-          <h2 class="text-4xl md:text-5xl font-bold text-[#0144a1] text-center pb-3 md:text-left">
+          <h2 class="text-xl md:text-2xl font-bold text-[#0144a1] text-center pb-3 md:text-left">
             Fondasi Kokoh, Janji Terpercaya
           </h2>
-          <p class="text-xl text-gray-700 leading-relaxed pb-5">
+          <p class="font-light text-gray-700 leading-relaxed pb-5">
             <strong class="text-[#0144a1]">PT. SAZAYAN KONSTRUKSI MEGAH</strong>
             adalah perusahaan yang bergerak di bidang proyek pembangunan sipil dan arsitektur. Dalam setiap kinerja, kami selalu mengutamakan kualitas, disiplin, serta manajemen kerja yang terstruktur, didukung oleh tenaga ahli yang profesional di bidangnya. Komitmen kami adalah menghadirkan hasil pekerjaan dengan kualitas tinggi demi tercapainya kepuasan maksimal bagi setiap mitra dan klien.
           </p>
-          <p class="text-xl text-gray-700 leading-relaxed mb-8">
+          <p class="font-light text-gray-700 leading-relaxed mb-8">
            Seiring perkembangan era globalisasi, kami terus beradaptasi dengan kemajuan teknologi konstruksi dan memperhatikan dampak lingkungan. Kami berusaha menjadi pelopor pembangunan yang inovatif, berwawasan, serta ramah lingkungan. Atas setiap kepercayaan yang diberikan untuk menangani proyek, kami menjadikannya sebagai tanggung jawab besar yang diiringi dedikasi penuh. Kepercayaan tersebut adalah kebanggaan sekaligus motivasi kami untuk memberikan hasil yang memuaskan bagi semua pihak.
           </p>
         </div>

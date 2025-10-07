@@ -39,11 +39,11 @@ import heroBg from '../assets/hero/image1.png'
 
           <div class="mb-8 md:mb-0 md:place-self-start">
             <div class="bg-white p-8 rounded-lg shadow-xl w-full">
-              <h2 class="text-3xl md:text-4xl font-bold text-gray-900 pb-3 text-center md:text-left">
+              <h2 class="text-3xl md:text-4xl font-bold text-[#002a66] pb-3 text-center md:text-left">
                 Visi
               </h2>
               <p class="text-lg text-gray-700 leading-relaxed text-justify md:text-left">
-                <strong class="text-gray-900">PT Digital Solusi Kreasi</strong>
+                <strong class="text-[#002a66]">PT Digital Solusi Kreasi</strong>
                 Kami membangun secara profesional dengan dedikasi dan disiplin tinggi untuk menghadirkan hasil yang
                 memuaskan dan bernilai jangka panjang.
               </p>
@@ -60,7 +60,7 @@ import heroBg from '../assets/hero/image1.png'
 
           <div class="mt-8 md:mt-0 md:place-self-end">
             <div class="bg-white p-8 rounded-lg shadow-xl w-full">
-              <h2 class="text-3xl md:text-4xl font-bold text-gray-900 pb-3 text-center md:text-left">
+              <h2 class="text-3xl md:text-4xl font-bold text-[#002a66] pb-3 text-center md:text-left">
                 Misi
               </h2>
               <p class=" space-y-3 text-lg text-gray-700 list-disc list-inside text-justify md:text-left">
