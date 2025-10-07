@@ -1,7 +1,7 @@
 <script setup>
 import Header from '../components/Header.vue'
 import Footer from '../components/Footer.vue'
-import heroBg from '../assets/hero/image3.png'
+import heroBg from '../assets/hero/image3.webp'
 </script>
 
 <template>
@@ -46,10 +46,10 @@ import heroBg from '../assets/hero/image3.png'
         <!-- Location Section (Full Width) -->
         <section class="w-full relative -top-10 m-auto">
             <h2 class="text-3xl font-bold pb-12 text-gray-900 text-center">
-                From Our Desk to Your <span class="text-[#0398dc]">Success</span>
+                From Our Desk to Your <span class="text-[#0144a1]">Success</span>
             </h2>
             <div class="w-full flex justify-center h-[350px]">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1674.2259326226767!2d107.01168908206695!3d-6.26585256348357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698e76b377f7b5%3A0xe4db025ec7bbbde5!2sJl.%20Dahlia%20III%20Blok%20F3%20No.24%2C%20RT.003%2FRW.015%2C%20Pengasinan%2C%20Kec.%20Rawalumbu%2C%20Kota%20Bks%2C%20Jawa%20Barat%2017115!5e1!3m2!1sen!2sid!4v1759693164642!5m2!1sen!2sid" width="40%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1674.2259326226767!2d107.01168908206695!3d-6.26585256348357!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698e76b377f7b5%3A0xe4db025ec7bbbde5!2sJl.%20Dahlia%20III%20Blok%20F3%20No.24%2C%20RT.003%2FRW.015%2C%20Pengasinan%2C%20Kec.%20Rawalumbu%2C%20Kota%20Bks%2C%20Jawa%20Barat%2017115!5e1!3m2!1sen!2sid!4v1759693164642!5m2!1sen!2sid" width="80%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </section>
         <!-- Contact Info Section -->
@@ -58,13 +58,13 @@ import heroBg from '../assets/hero/image3.png'
                 <div class="flex flex-col lg:flex-row items-center justify-center md:gap-10">
                     <!-- Image (Centered) -->
                     <div class=" max-w-1/2 md:max-w-1/4 h-auto flex justify-center">
-                        <img src="@/assets/header/imageLogo.png" alt="PT Digital Solusi Kreasi Office"
+                        <img src="@/assets/header/imageLogo.webp" alt="PT Digital Solusi Kreasi Office"
                             class="max-w-full pb-10 object-cover max-h-[400px]" />
                     </div>
 
                     <!-- Contact Info (Centered & Not Too Wide) -->
                     <div
-                        class="w-full lg:w-1/2 text-black max-w-md mx-auto text-center relative  md:top-0 md:text-left">
+                        class="w-full lg:w-1/2 text-black max-w-md mx-auto text-center relative  md:top-0 md:text-left hidden">
                         <div class="space-y-5 text-lg leading-relaxed">
                             <div>
                                 <span class="opacity-90">

@@ -1,7 +1,7 @@
 <script setup>
 import { ref, onMounted, onBeforeUnmount, computed } from 'vue'
 import { RouterLink } from 'vue-router'
-import skmLogo from '@/assets/header/imageLogo.png'
+import skmLogo from '@/assets/header/imageLogo.webp'
 
 const isMobileMenuOpen = ref(false)
 const isScrolled = ref(false)

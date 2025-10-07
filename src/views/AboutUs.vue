@@ -1,7 +1,7 @@
 <script setup>
 import Header from '../components/Header.vue'
 import Footer from '../components/Footer.vue'
-import heroBg from '../assets/hero/image1.png'
+import heroBg from '../assets/hero/image1.webp'
 </script>
 
 <template>
@@ -32,7 +32,7 @@ import heroBg from '../assets/hero/image1.png'
     </section>
 
     <!-- Core Values -->
-    <section class="bg-white py-20 flex justify-center">
+    <section class="py-20 flex justify-center relative -top-25">
       <div class="w-full max-w-7xl px-6">
 
         <div class="grid md:grid-cols-3 md:gap-8 md:items-center">
@@ -43,7 +43,6 @@ import heroBg from '../assets/hero/image1.png'
                 Visi
               </h2>
               <p class="font-light text-gray-700 leading-relaxed text-justify md:text-left">
-                <strong class="text-[#002a66]">PT Digital Solusi Kreasi</strong>
                 Kami membangun secara profesional dengan dedikasi dan disiplin tinggi untuk menghadirkan hasil yang
                 memuaskan dan bernilai jangka panjang.
               </p>
@@ -54,7 +53,7 @@ import heroBg from '../assets/hero/image1.png'
             <div class="absolute bg-[#bfa448] opacity-80 rounded-lg"
               style="width: 100%; height: 100%; top: 1%; left: -10%; transform: translate(15px, 15px); z-index: 1;">
             </div>
-            <img src="@/assets/AboutUs/image5.png" alt="Visi dan Misi Perusahaan"
+            <img src="@/assets/AboutUs/image5.webp" alt="Visi dan Misi Perusahaan"
               class="rounded-lg shadow-2xl max-w-full w-full h-auto z-0" />
           </div>
 

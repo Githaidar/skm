@@ -13,7 +13,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
     <section class="relative w-full flex flex-col md:flex-row-reverse items-center justify-between -top-20">
       <!-- Gambar -->
       <div class="relative w-full md:w-3/5">
-        <img src="../assets/hero/image4.png" alt="Hero" class="w-full h-220 object-cover rounded-1xl" />
+        <img src="../assets/hero/image4.webp" alt="Hero" class="w-full h-220 object-cover rounded-1xl" />
 
         <!-- Overlay layer khusus mobile -->
         <div class="absolute inset-0 md:bg-[#444444]/90 bg-[#000f24]/80 rounded-3xl md:hidden"></div>
@@ -28,7 +28,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
 
       <!-- Text + Button (desktop) -->
       <div class="hidden md:flex w-full md:w-2/5 flex-col items-start text-left px-6 md:px-12">
-        <h1 class="text-4xl md:text-6xl font-bold text-[#0144a1] mb-6 leading-tight">
+        <h1 class="text-2xl md:text-4xl font-bold text-[#0144a1] mb-6 leading-tight">
           “Setiap proyek adalah amanah, dan kami wujudkan dengan profesionalisme kerja yang terukur, rapi, dan bertanggung jawab.”
         </h1>
       </div>
@@ -38,7 +38,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
     <section class="relative -top-20 py-10">
       <div class="mx-auto flex flex-col items-center px-6">
         <h2 class="text-3xl font-bold pb-12 text-gray-900 text-center">
-          Our <span class="text-[#0398dc]">Signature </span> Service
+          Our <span class="text-[#0144a1]">Signature </span> Service
         </h2>
 
         <div class="grid w-full md:grid-cols-3 gap-8 justify-items-center max-w-6xl">
@@ -57,7 +57,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
             </div>
 
             <!-- Gambar akan selalu menempel di bawah -->
-            <img src="@/assets/service-card/image1.png" alt="Core Values"
+            <img src="@/assets/service-card/image1.webp" alt="Core Values"
               class="w-full h-30 object-cover rounded-b-lg" />
           </div>
 
@@ -75,7 +75,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
             </div>
 
             <!-- Gambar akan selalu menempel di bawah -->
-            <img src="@/assets/service-card/image2.png" alt="Core Values"
+            <img src="@/assets/service-card/image2.webp" alt="Core Values"
               class="w-full h-30 object-cover rounded-b-lg" />
           </div>
 
@@ -93,7 +93,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
             </div>
 
             <!-- Gambar akan selalu menempel di bawah -->
-            <img src="@/assets/service-card/image3.png" alt="Core Values"
+            <img src="@/assets/service-card/image3.webp" alt="Core Values"
               class="w-full h-30 object-cover rounded-b-lg" />
           </div>
 

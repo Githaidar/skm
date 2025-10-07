@@ -12,7 +12,7 @@ import Footer from '../components/Footer.vue'
     <section class="relative w-full flex flex-col md:flex-row items-center justify-between -top-20">
       <!-- Gambar -->
       <div class="relative w-full md:w-3/5">
-        <img src="../assets/hero/image3.png" alt="Hero" class="w-full md:h-full h-200 object-cover rounded-1xl" />
+        <img src="../assets/hero/image3.webp" alt="Hero" class="w-full md:h-full h-200 object-cover rounded-1xl" />
 
         <!-- Overlay layer khusus mobile -->
         <div class="absolute inset-0 bg-[#000f24]/80 rounded-2xl md:hidden"></div>
@@ -52,7 +52,7 @@ import Footer from '../components/Footer.vue'
       <div class="w-full max-w-7xl px-6 grid md:grid-cols-5 gap-12 md:gap-20 items-center">
 
         <div class="hidden md:flex md:col-span-2 relative justify-start items-center">
-          <img src="@/assets/hero/image4.png" alt="Core Values" class="rounded-lg shadow-lg max-w-full h-auto" />
+          <img src="@/assets/hero/image4.webp" alt="Core Values" class="rounded-lg shadow-lg max-w-full h-auto" />
           <div class="absolute bg-[#3A507F] md:bg-[#bfa448] opacity-80 rounded-lg"
             style="width: 100%; height: 95%; top: 10%; left: -15%; z-index: 1;"></div>
         </div>
