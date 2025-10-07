@@ -51,7 +51,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
                 class="text-3xl pb-3 pt-1 font-extrabold mt-4 group-hover:text-gray-900 transition-colors text-center">
                 Perencanaan
               </h3>
-              <p class=" px-2 text-justify">
+              <p class="font-light px-2 pb-5 text-justify">
                 Tahap perencanaan kami dimulai dengan diskusi intensif bersama klien untuk memahami kebutuhan secara menyeluruh. Dari sana, kami menyusun lingkup pekerjaan yang tepat, dengan biaya dan waktu pelaksanaan yang dirancang seefektif dan seefisien mungkin, demi memastikan proyek berjalan lancar dan hasil yang memuaskan.
               </p>
             </div>
@@ -69,7 +69,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
                 class="text-3xl pb-3 pt-1 font-extrabold mt-4 group-hover:text-gray-900 transition-colors text-center">
                 Pelaksanaan
               </h3>
-              <p class=" px-2 text-justify">
+              <p class="font-light px-2 text-justify">
                 Pada tahap pelaksanaan, kami mengedepankan profesionalisme dengan dukungan tenaga ahli berpengalaman serta penerapan standar kerja yang disiplin. Setiap detail pekerjaan dilakukan secara sistematis dan terkontrol untuk memastikan mutu, ketepatan waktu, serta efisiensi biaya.
               </p>
             </div>
@@ -87,7 +87,7 @@ import heroBg from '../assets/hero/ServiceHero.webp'
                 class="text-3xl pb-3 pt-1 font-extrabold mt-4 group-hover:text-gray-900 transition-colors text-center">
                 Pengawasan
               </h3>
-              <p class=" px-2 text-justify">
+              <p class="font-light px-2 text-justify">
                 Pengawasan dilakukan secara menyeluruh dan berkelanjutan sepanjang proyek berlangsung. Kami memastikan setiap tahap pekerjaan sesuai dengan rencana, spesifikasi teknis, serta standar kualitas yang telah ditetapkan, sehingga hasil akhir dapat memberikan kepuasan maksimal bagi klien.
               </p>
             </div>

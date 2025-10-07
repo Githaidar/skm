@@ -42,7 +42,7 @@ import heroBg from '../assets/hero/image1.png'
               <h2 class="text-3xl md:text-4xl font-bold text-[#002a66] pb-3 text-center md:text-left">
                 Visi
               </h2>
-              <p class="text-lg text-gray-700 leading-relaxed text-justify md:text-left">
+              <p class="font-light text-gray-700 leading-relaxed text-justify md:text-left">
                 <strong class="text-[#002a66]">PT Digital Solusi Kreasi</strong>
                 Kami membangun secara profesional dengan dedikasi dan disiplin tinggi untuk menghadirkan hasil yang
                 memuaskan dan bernilai jangka panjang.
@@ -63,7 +63,7 @@ import heroBg from '../assets/hero/image1.png'
               <h2 class="text-3xl md:text-4xl font-bold text-[#002a66] pb-3 text-center md:text-left">
                 Misi
               </h2>
-              <p class=" space-y-3 text-lg text-gray-700 list-disc list-inside text-justify md:text-left">
+              <p class=" space-y-3 font-light text-gray-700 list-disc list-inside text-justify md:text-left">
                 Kami berkomitmen menghasilkan karya di bidang jasa konstruksi yang bermutu tinggi, berkualitas, dan
                 diselesaikan tepat waktu. kami senantiasa memberikan pelayanan terbaik demi terciptanya pembangunan yang
                 berkelanjutan dan memuaskan bagi semua pihak
