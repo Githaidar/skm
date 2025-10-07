@@ -12,7 +12,7 @@ import Footer from '../components/Footer.vue'
     <section class="relative w-full flex flex-col md:flex-row items-center justify-between -top-20">
       <!-- Gambar -->
       <div class="relative w-full md:w-3/5">
-        <img src="../assets/hero/image3.png" alt="Hero" class="w-full md:h-full h-125 object-cover rounded-1xl" />
+        <img src="../assets/hero/image3.png" alt="Hero" class="w-full md:h-full h-200 object-cover rounded-1xl" />
 
         <!-- Overlay layer khusus mobile -->
         <div class="absolute inset-0 bg-[#000f24]/80 rounded-2xl md:hidden"></div>
