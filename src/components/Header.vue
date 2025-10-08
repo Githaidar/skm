@@ -33,9 +33,9 @@ onBeforeUnmount(() => {
 // Background header
 const headerBgClass = computed(() => {
   if (!isDesktop.value) {
-    return 'bg-[#99833a]'
+    return 'bg-[#dedede]'
   } else {
-    return isScrolled.value ? 'bg-[#99833a]' : 'bg-[#99833a]/50'
+    return isScrolled.value ? 'bg-[#dedede]' : 'bg-[#dedede]/50'
   }
 })
 
@@ -56,7 +56,7 @@ const navTextClass = computed(() => {
   ]">
     <div class="w-full h-20 flex items-center justify-between px-6 py-4">
       <RouterLink to="/" class="md:pl-40">
-        <img :src="skmLogo" alt="DSK Logo" class="h-auto m-auto w-75" />
+        <img :src="skmLogo" alt="DSK Logo" class="h-auto m-auto w-55 md:w-75" />
       </RouterLink>
 
       <!-- Desktop Navigation -->
@@ -79,7 +79,7 @@ const navTextClass = computed(() => {
     <!-- Mobile Menu Dropdown -->
     <Transition name="slide-fade">
       <div v-show="isMobileMenuOpen"
-           class="md:hidden bg-[#99833a] text-white overflow-hidden transition-all duration-300 ease-in-out"
+           class="md:hidden bg-[#dedede] text-[#013d91] overflow-hidden transition-all duration-300 ease-in-out"
            :style="{ maxHeight: isMobileMenuOpen ? '20rem' : '0' }">
         <div class="px-6 py-4 flex flex-col gap-4">
           <RouterLink to="/" class="hover:text-blue-300 transition-colors" @click="toggleMenu">Home</RouterLink>
