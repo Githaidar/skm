@@ -58,8 +58,8 @@ import heroBg from '../assets/hero/image3.webp'
                 <div class="flex flex-col lg:flex-row items-center justify-center md:gap-10">
                     <!-- Image (Centered) -->
                     <div class="h-auto w-auto flex pb-10 justify-center bg-white">
-                        <img src="@/assets/header/imageLogo.webp" alt="PT Digital Solusi Kreasi Office"
-                            class="max-w-1/2 md:max-w-1/4 object-cover max-h-max" />
+                        <img src="@/assets/icon/logo.webp" alt="PT Digital Solusi Kreasi Office"
+                            class="pr-5 max-w-1/2 md:max-w-1/4 object-cover max-h-max" />
                     </div>
 
                     <!-- Contact Info (Centered & Not Too Wide) -->
